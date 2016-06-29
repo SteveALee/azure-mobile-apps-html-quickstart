@@ -22,4 +22,4 @@
 ## Get visibility into the deployed App
 * Turn on logs in the Portal App's ```settings / diagnostic logs```.
 * View logs in the App's ```tools / log streaming``` console or by using the Azure CLI commands ```log``` and ```tail```.
-* Interact in ```tools / console``` but note this is not the exact deploymnet environment (eg node version may be different).
+* Interact in ```tools / console``` but note this is not the exact deployment environment (eg node version may be different).
